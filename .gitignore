@@ -1,0 +1,3 @@
+languages/*.po
+languages/default*
+.DS_Store
